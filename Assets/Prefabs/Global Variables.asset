@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d83c912b64c93445aa8a07b6a412d88, type: 3}
+  m_Name: Global Variables
+  m_EditorClassIdentifier: 
+  glowFadingMaterial: {fileID: 2100000, guid: 090d1c5035659ae409bfb9505c6a6f73, type: 2}
+  EnemyPrefab: {fileID: 3720573643530908717, guid: acfc9cdb8b9f1ca4e8771f5081489a16,
+    type: 3}
+  CoinPrefab: {fileID: 6589686150906095162, guid: b9661e507d23f6f458fb05a2f6053d14,
+    type: 3}
+  DeathParticlePrefab: {fileID: 8120670502762817289, guid: a8c61bd8ed5ab7e4e98c6c6c4fb7bf6c,
+    type: 3}
+  LevelPart1: {fileID: 0}
+  LevelPart2: {fileID: 0}
+  Player: {fileID: 0}
+  Level: {fileID: 0}
+  SwipeControllerGameObject: {fileID: 0}
+  BattleButtons: {fileID: 0}
+  LevelVariant1: {fileID: 5002779969720335393, guid: c4bbb1b9c9773574182e07edc9697b96,
+    type: 3}
+  LevelVariant2: {fileID: 7855934346523366209, guid: fd007e68877911d45b3c2fc9c972e1f3,
+    type: 3}
+  LevelVariant3: {fileID: 2113522330527589715, guid: b31e8611336b7fb4ba281315d659b8aa,
+    type: 3}
+  LevelVariant4: {fileID: 3221674941701943619, guid: c512e1ad98cc8374a9cc61a6ead9e0ee,
+    type: 3}

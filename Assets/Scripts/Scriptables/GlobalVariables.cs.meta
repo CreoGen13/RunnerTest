@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 2d83c912b64c93445aa8a07b6a412d88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerSpawnPoint: {instanceID: 0}
+  - PlayerPrefab: {fileID: 3922401531867121507, guid: 8e6f53bcf65f02240b1449e52bff0812,
+      type: 3}
+  - EnemyPrefab: {fileID: 3720573643530908717, guid: acfc9cdb8b9f1ca4e8771f5081489a16,
+      type: 3}
+  - CoinPrefab: {fileID: 6589686150906095162, guid: b9661e507d23f6f458fb05a2f6053d14,
+      type: 3}
+  - LevelVariant1: {fileID: 5002779969720335393, guid: c4bbb1b9c9773574182e07edc9697b96,
+      type: 3}
+  - LevelVariant2: {fileID: 7855934346523366209, guid: fd007e68877911d45b3c2fc9c972e1f3,
+      type: 3}
+  - LevelVariant3: {fileID: 2113522330527589715, guid: b31e8611336b7fb4ba281315d659b8aa,
+      type: 3}
+  - LevelVariant4: {fileID: 3221674941701943619, guid: c512e1ad98cc8374a9cc61a6ead9e0ee,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
